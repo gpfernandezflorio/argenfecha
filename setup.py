@@ -26,7 +26,8 @@ packages = find_packages(exclude=['tests*'])
 # exec(code)
 
 setup(name='ArgenFecha',
-      version=__version__,
+      # version=__version__,
+      version="0.0.1"
       author='Rozen',
       # author_email='devs@python-telegram-bot.org',
       license='LGPLv3',

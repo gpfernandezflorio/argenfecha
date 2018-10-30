@@ -25,13 +25,13 @@ print("packages", packages)
 # code = compile(fh.read(), fn, 'exec')
 # exec(code)
 
-setup(name='ArgenFecha',
+setup(name='argenfecha',
       # version=__version__,
       version="0.0.1",
       author='Rozen',
       # author_email='devs@python-telegram-bot.org',
       license='LGPLv3',
-      # url='https://python-telegram-bot.org/',
+      url='https://github.com/rozen03/argenfecha',
       # keywords='python telegram bot api wrapper',
       description="Cosa",
       # long_description=fd.read(),
